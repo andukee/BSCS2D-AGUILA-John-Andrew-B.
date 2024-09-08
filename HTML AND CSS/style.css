@@ -1,0 +1,44 @@
+body {
+background-color: rgb(77, 72, 64);
+}
+.menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+.established {
+    font-style: italic;
+}
+
+.item p {
+display:inline-block;
+margin: 10px 0;
+font-size: 18px;
+}
+
+.price {
+    width: 50%;
+    text-align: right;
+}
+
+hr {
+    height: 2px;
+    background-color: orange;
+    border-color: black;
+}
+
+a {
+    color:black
+}
+
+h2 ,h3 {
+font-style: italic;    
+}
+
